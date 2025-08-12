@@ -1,4 +1,4 @@
-#CleanEx Privacy Policy
+# CleanEx Privacy Policy
 Last Updated: 12/08/2025
 
 CleanEx ("we," "our," or "us") respects your privacy and is committed to protecting the personal information you share with us. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application (the "App").
